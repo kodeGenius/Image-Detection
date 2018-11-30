@@ -1,5 +1,5 @@
-# SmartBrain - v1
-Final project for Udemy course
+This is an Image Detection Software
+It uses an API for it functionality
 
 1. Clone this repo
 2. Run `npm install`
