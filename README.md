@@ -1,5 +1,5 @@
 #This is an Image Detection Software.
-It uses an API for it functionality.
+It uses an API it functionality.
 
 1. Clone this repo
 2. Run `npm install`
