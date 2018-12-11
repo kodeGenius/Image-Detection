@@ -2,7 +2,7 @@
 It uses an API it functionality.
 
 1. Clone this repo
-2. Run `npm insta`
+2. Run `npm instal`
 3. Run `npm start`
 4. You must add your own API key 
 
