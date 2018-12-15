@@ -1,7 +1,7 @@
 #This is an Image Detection Software.
 It uses an API it functionality.
 
-2. Run `npm i
+2. Run `npm 
 3. Run `npm start`
 4. You must add your own API key 
 
