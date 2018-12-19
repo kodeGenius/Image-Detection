@@ -3,7 +3,7 @@ It uses an API it functionality.
 
 2. 
 3. Run `npm start`
-4. You must add your own A
+4. You must add your own 
 
 You can grab Clarifai API key [here] 
 //(https://www.clarifai.com/)
