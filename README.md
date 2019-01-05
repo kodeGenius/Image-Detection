@@ -2,7 +2,7 @@
 It uses an API it functionality.
 
 2.
-3. Run `npm start`
+3. Ru `npm start`
 
 
 You can grab Clarifai API key [here] 
