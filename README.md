@@ -1,5 +1,5 @@
 #This is an Image Detection Software.
-It uses an API it functionality
+It uses an API it functionaliy
 
 2
 3. Ru `npm start`
