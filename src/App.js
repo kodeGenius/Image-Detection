@@ -1,4 +1,4 @@
-// import lin
+// import l
 import React, { Component } from 'react';
 import Particles from 'react-particles-js';
 import Clarifai from 'clarifai';
